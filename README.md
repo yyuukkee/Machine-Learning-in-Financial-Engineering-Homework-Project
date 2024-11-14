@@ -14,7 +14,6 @@ This course focuses on applying machine learning techniques, both classical (e.g
 
 ### Important Notice
 
-This project contains materials shared with the permission of my professor. Please note that the materials are for personal review only and **should not be further distributed** in any form.
-
+This project contains materials shared with the permission of my professor. Please note that the materials are for personal review only and should not be further distributed.
 Thank you for your understanding.
 
